@@ -1,0 +1,18 @@
+system: |-
+  Answer or verify the query. Let's think step by step.
+  End your response with your final answer: either Yes, No, or I don't know.
+
+input_template: |-
+  Query: {{QUERY}}
+
+few-shot:
+  - input:
+      QUERY: |-
+        Is The Joy of Painting TV show still producing new episodes?
+    output: |-
+      The Joy of Painting is hosted by the painter Bob Ross, who died in 1995. The episodes currently airing are reruns. Therefore, The Joy of Painting is no longer producing new episodes. Final Answer: no. 
+  - input:
+      QUERY: |-
+        Was Hundred Years' War a misnomer?
+    output: |-
+      The Hundred Years' War lasted from 1337-1453, which is longer than a hundred years. Therefore, The Hundred Years' War is a misnomer. Final answer: yes. 

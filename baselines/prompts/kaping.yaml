@@ -1,0 +1,10 @@
+system: |-
+  You are a helpful assistant.
+
+input_template: |-
+  {% if FACTS %}
+  Below are facts in the form of the triple meaningful to answer or verify the query.
+  {{ FACTS|join('\n') }}
+  {% endif %}
+  Please answer or verify the query: {{ QUERY }}
+  Answer with either "Yes", "No", or "I don't know". Then provide your explanation.

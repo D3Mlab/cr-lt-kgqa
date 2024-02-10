@@ -58,3 +58,9 @@ In order to ensure that queries target entities from long-tail knowledge, we rep
 ### Question rewriting
 We follow the guidelines and schemes proposed by the ["Would you ask it that way"](https://arxiv.org/pdf/2205.12768.pdf) to improve the naturalness of the NL queries, considering aspects such as grammar (e.g., poor word ordering, non-idiomatic) and form (e.g., quizlike, imperative phrasing), and rewrite more natural formulations of the original queries. We also observe that some queries in Creak and StrategyQA are written with making implicit assumptions that are not necessarily correct, so we correct them in the CR-LT-KGQA queries.
 ## Baseline Methods
+To run the baselines, use the following command.
+```
+python -m baselines.llm <TASK>
+python -m baselines.llm <TASK> --few-shot
+```
+where `<TASK>` is either `question-answering` or `claim-verification`. Add `--few-shot` to use few-shot chain-of-thought instead of zero-shot chain-of-thought. 

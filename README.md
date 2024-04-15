@@ -49,6 +49,18 @@ An exemplar entry of the dataset:
   }
 ```
 
+## Citing CR-LT-KGQA
+Please see our [paper](https://arxiv.org/pdf/2403.01395.pdf) describing CR-LT-KGQA. If you found this useful, please consider citing us:
+~~~
+@article{guo2024cr,
+  title={CR-LT-KGQA: A Knowledge Graph Question Answering Dataset Requiring Commonsense Reasoning and Long-Tail Knowledge},
+  author={Guo, Willis and Toroghi, Armin and Sanner, Scott},
+  journal={arXiv preprint arXiv:2403.01395},
+  year={2024}
+}
+
+~~~
+
 ## Data Curation Methodology
 ### Query Selection
 To generate CR-LT-KGQA queries, we first select questions from StrategyQA and claims from CREAK for which the required factual knowledge for answering them is present in Wikidata or that can be rewritten as such queries by targeting them on new KG entities. 

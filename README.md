@@ -1,4 +1,5 @@
-# cr-lt-kgqa
+# CoLoTa: A Dataset for Entity-based Commonsense Reasoning
+over Long-Tail Knowledge
 CR-LT KGQA Dataset Repository
 # Introduction
 This repository contains the CR-LT-KGQA Dataset and implementations of the baselines. CR-LT-KGQA is the first Knowledge Graph Query Answering dataset with Natural Language queries targeted on long-tail Wikidata entities, answering which requires commonsense reasoning and is submitted to SIGIR'24.

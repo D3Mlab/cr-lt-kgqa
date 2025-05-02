@@ -937,7 +937,7 @@
     "answer": true,
     "KG Entities": {
       "Mahmoud Dowlatabadi": "Q1373235",
-      "Makioka Sisters": "Q2354342"
+      "The Makioka Sisters": "Q2354342"
     },
     "Inference Rule": "The genre of at least one of Mahmoud Dowlatabadi's works must have been the same as the genre of The Makioka Sisters to make the answer correct.",
     "KG Triples": "1- (Mahmoud Dowlatabadi, notable work, Kelidar), 2- (Kelidar, genre, novel), 3- (The Makioka Sisters, genre, novel)",

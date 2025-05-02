@@ -224,10 +224,10 @@
   },
   {
     "id": "S9",
-    "query": "Can you watch all of l'auberge du chien noir in six months?",
+    "query": "Can you watch all of L'auberge du chien noir in six months?",
     "answer": true,
     "KG Entities": {
-      "l'auberge du chien noir": "Q3202574"
+      "L'auberge du chien noir": "Q3202574"
     },
     "Inference Rule": "If the total duration of all episodes of L'auberge du chien noir is smaller than 6 months, it is possible to watch all of its episodes in 6 months.",
     "KG Triples": "1- (L'auberge du chien noir, duration, 43 minute), 2- (L'auberge du chien noir, number of episodes, 376)",
@@ -393,7 +393,7 @@
     "query": "Was Fantastic Beasts: The Secrets of Dumbledore solvent?",
     "answer": true,
     "KG Entities": {
-      "The Secrets of Dumbledore": "Q18199332"
+      "Fantastic Beasts: The Secrets of Dumbledore": "Q18199332"
     },
     "Inference Rule": "A movie is considered solvent if its revenue is greater than its cost.",
     "KG Triples": "1- (Fantastic Beasts: The Secrets of Dumbledore, box office, 95,850,844 United States dollar {valid in place, United States of America}), 2- (Fantastic Beasts: The Secrets of Dumbledore, cost, 200,000,000 United States dollar)",

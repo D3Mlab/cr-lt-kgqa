@@ -666,11 +666,11 @@
       "Fesenjān": "Q608979"
     },
     "Inference Rule": "People who like a food typically enjoy its ingredients.",
-    "KG Triples": "1- (Fesenjān , has part(s), pomegranate juice)",
+    "KG Triples": "1- (Fesenjān, has part(s), pomegranate juice)",
     "Reasoning Steps": [
       {
         "Step": "Fesenjān has pomegranate juice as an ingredient.",
-        "facts used in this step": "(Fesenjān , has part(s), pomegranate juice)"
+        "facts used in this step": "(Fesenjān, has part(s), pomegranate juice)"
       },
       {
         "Step": "People who love Fesenjān enjoy pomegranate juice because it is an ingredient of Fesenjān."

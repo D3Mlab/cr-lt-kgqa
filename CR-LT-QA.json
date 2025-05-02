@@ -996,7 +996,7 @@
     "query": "Did Juan Antonio Pizzi play for a country other than the place he was born in?",
     "answer": true,
     "KG Entities": {
-      "Antonio Pizzi": "Q508489"
+      "Juan Antonio Pizzi": "Q508489"
     },
     "Inference Rule": "The place of birth of Juan Antonio Pizzi must be located in another country than the country for which he played to make the answer correct.",
     "KG Triples": "1- (Juan Antonio Pizzi, place of birth, Santa Fe), 2- (Santa Fe, country, Argentina), 3- (Juan Antonio Pizzi, country for sport, Spain)",

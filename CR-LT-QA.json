@@ -908,6 +908,7 @@
     "query": "Could Kaká have bought a car from Jordan Motor Car Company?",
     "answer": false,
     "KG Entities": {
+      "Kaká": "Q531814"
       "Jordan Motor Car Company": "Q1703639"
     },
     "Inference Rule": "Kaká must have lived during the same time Jordan Motor Car Company was active to be able to buy a car from it.",

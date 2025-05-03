@@ -2658,7 +2658,7 @@
     "query": "Is Geats Extra: Kamen Rider PunkJack a standalone movie?",
     "answer": false,
     "KG Entities": {
-      "Kamen Rider PunkJack": "Q118369339"
+      "Geats Extra: Kamen Rider PunkJack": "Q118369339"
     },
     "Inference Rule": "If Geats Extra: Kamen Rider PunkJack is not a part of a movie series, it could be considered a standalone movie.",
     "KG Triples": "1- (Geats Extra: Kamen Rider PunkJack, part of the series, Kamen Rider), 2- (Geats Extra: Kamen Rider PunkJack, part of the series, Toei Tokusatsu Universe), 3- (Geats Extra: Kamen Rider PunkJack, part of the series, Kamen Rider Geats)",

@@ -3814,7 +3814,7 @@
     "query": "Could Charles Hesterman Merz have voted for Brexit?",
     "answer": false,
     "KG Entities": {
-      "Hesterman Merz": "Q27127",
+      "Charles Hesterman Merz": "Q27127",
       "Brexit": "Q7888194"
     },
     "Inference Rule": "If Charles Hesterman Merz was alive at the time of Brexit election and met the legal criteria for voting in that election, it could be possible for him to vote for Brxit.",

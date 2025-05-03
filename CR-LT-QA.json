@@ -2069,7 +2069,8 @@
     "query": "Would you be likely to see storks at the baby shower of Hermann Hummels’ son in 1988?",
     "answer": true,
     "KG Entities": {
-      "Hermann Hummels": "Q1611556"
+      "Hermann Hummels": "Q1611556",
+      "Mats Hummels": "Q110053"
     },
     "Inference Rule": "If Hermann Hummels' son was a child in 1988, it would be likely to find storks at his shower.",
     "KG Triples": "1- (Hermann Hummels, child, Mats Hummels), 2- (Mats Hummels, date of birth, 16 December 1988)",

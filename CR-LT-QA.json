@@ -2999,10 +2999,10 @@
   },
   {
     "id": "S111",
-    "query": "Did Orhan Ghazi have more wives than children?",
+    "query": "Did Orhan have more wives than children?",
     "answer": true,
     "KG Entities": {
-      "Orhan Ghazi": "Q133168"
+      "Orhan": "Q133168"
     },
     "Inference Rule": "If the number of Orhan's spouses is greater than the number of his children, the answer to the question is yes.",
     "KG Triples": "1- (Orhan, spouse, Nilüfer Hatun), 2-(Orhan, spouse, Asporça Hatun), 3-(Orhan, spouse, Theodora Kantakuzini), 4- (Orhan, spouse, Eftandise Hatun), 5- (Orhan, child, Murad I), 6- (Orhan, child, Gazi Süleyman paşa), 7- (Orhan, child, Halil Bey)",

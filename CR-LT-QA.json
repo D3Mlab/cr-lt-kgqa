@@ -3687,7 +3687,7 @@
     "query": "Could the Kalashnikov rifle have been used in the Second Sino-Japanese War?",
     "answer": false,
     "KG Entities": {
-      "Sino-Japanese War": "Q170314",
+      "Second Sino-Japanese War": "Q170314",
       "Kalashnikov": "Q37116"
     },
     "Inference Rule": "If Kalashnikov rifle was invented before the second Sino-Japanese war, it would be possible to be used in that war.",

@@ -1261,7 +1261,7 @@
     "query": "Could Urmila Kanetkar- Kothare’s husband have been instrumental in the Tudeh Party of Iran?",
     "answer": false,
     "KG Entities": {
-      "Kanetkar- Kothare": "Q4319578",
+      "Urmila Kanetkar- Kothare": "Q4319578",
       "Tudeh Party of Iran": "Q1339294"
     },
     "Inference Rule": "Urmila Kanetkar- Kothare's husband must have been an Iranian or be involved in Iranian politics to be likely to be instrumental in Parti Tudeh.",

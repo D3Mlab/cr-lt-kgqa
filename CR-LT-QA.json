@@ -1882,7 +1882,9 @@
     "query": "Was Digão’s brother playing for a club based in Brazil when Bojana Atanasovska began her career?",
     "answer": true,
     "KG Entities": {
-      "Bojana Atanasovska": "Q63168875"
+      "Bojana Atanasovska": "Q63168875",
+      "Digão": "Q316959",
+      "Kaká": "Q531814"
     },
     "Inference Rule": "The club that Digão's brother played for at the time Bojana Atanasovska began her work must be a Brazilian club to make the answer true. ",
     "KG Triples": "1- (Bojana Atanasovska, work period (start), 2002), 2- (Digão, sibling, Kaká), 3- (Kaká, member of sports team, São Paulo FC{start time, 2001}{end time, 2003}), 4- (São Paulo FC, country, Brazil)",

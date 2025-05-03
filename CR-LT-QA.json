@@ -2700,10 +2700,10 @@
   },
   {
     "id": "S100",
-    "query": "Would most people in New York be wearing jackets on Rajyavardhan Rathore’s birthday?",
+    "query": "Would most people in New York City be wearing jackets on Rajyavardhan Rathore’s birthday?",
     "answer": true,
     "KG Entities": {
-      "York City": "Q60",
+      "York City City": "Q60",
       "Rajyavardhan Rathore": "Q982805"
     },
     "Inference Rule": "If Rajyavardhan Rathore's birthdate is in Winter in the northern hemisphere, it is likely that most people would be wearing jackets in New York City. ",

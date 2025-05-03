@@ -2755,7 +2755,8 @@
     "query": "Is it likely to find mooncakes in the birthplace of Ian Barbour?",
     "answer": true,
     "KG Entities": {
-      "Ian Barbour": "Q525883"
+      "Ian Barbour": "Q525883",
+      "mooncake": "Q197969"
     },
     "Inference Rule": "If the birth place of Ian Barbour has a considerable Chinese population, it is likely to find mooncakes there.",
     "KG Triples": "1- (mooncake, description, Chinese bakery product traditionally eaten during the Mid-Autumn Festival), 2- (Ian Barbour, place of birth, Beijing), 3- (Beijing, country, People's Republic of China)",

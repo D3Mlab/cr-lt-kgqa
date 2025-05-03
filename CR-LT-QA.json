@@ -2882,7 +2882,9 @@
     "query": "Did Vincenzo Gamba have any cousins on his father's side?",
     "answer": true,
     "KG Entities": {
-      "Vincenzo Gamba": "Q7932232"
+      "Vincenzo Gamba": "Q7932232",
+      "Galileo Galilei": "Q307",
+      "Michelagnolo Galilei": "Q975540"
     },
     "Inference Rule": "If any of Vincenzo Gamba's father's siblings had a child, he had a cousin from his father's side.",
     "KG Triples": "1- (Vincenzo Gamba, father, Galileo Galilei), 2- (Galileo Galilei, sibling, Michelagnolo Galilei), 3- (Michelagnolo Galilei, child, Vincenzo Galilei)",

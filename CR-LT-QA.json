@@ -1750,7 +1750,7 @@
     "answer": true,
     "KG Entities": {
       "Laotian Civil War": "Q877450",
-      "cheetah": "Q23907"
+      "Cheetah": "Q23907"
     },
     "Inference Rule": "The longest lifespan of a cheetah must be longer than the duration of the Laotian Civil war to be possible for it to live during the entire Laotian Civil war.",
     "KG Triples": "1- (Cheetah, longest observed lifespan, 20.5 year), 2- (Laotian Civil War, start time, 23 May 1959), 3- (Laotian Civil War, start time, 2 December 1975)",

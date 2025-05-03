@@ -4892,12 +4892,12 @@
     "KG Entities": {
       "Zelimkhan Yandarbiyev": "Q313449"
     },
-    "Inference Rule": "If Zelimkhan Yandarbiye avoids drinking alcohol, he is likely to avoid drinking rum.",
-    "KG Triples": "1- (Zelimkhan Yandarbiye, religion or worldview, Islam)",
+    "Inference Rule": "If Zelimkhan Yandarbiyev avoids drinking alcohol, he is likely to avoid drinking rum.",
+    "KG Triples": "1- (Zelimkhan Yandarbiyev, religion or worldview, Islam)",
     "Reasoning Steps": [
       {
-        "Step": "Zelimkhan Yandarbiye follows Islam.",
-        "facts used in this step": "(Zelimkhan Yandarbiye, religion or worldview, Islam)"
+        "Step": "Zelimkhan Yandarbiyev follows Islam.",
+        "facts used in this step": "(Zelimkhan Yandarbiyev, religion or worldview, Islam)"
       },
       {
         "Step": "Islam prohibits drinking alcohol, so it would be likely for Zelimkhan Yandarbiyev to avoid drinking rum."

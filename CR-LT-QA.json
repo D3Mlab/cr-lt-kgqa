@@ -2096,7 +2096,7 @@
     "answer": true,
     "KG Entities": {
       "Jean-François Gillet": "Q509996",
-      "Bahadur Chand": "Q2628548"
+      "Lokendra Bahadur Chand": "Q2628548"
     },
     "Inference Rule": "If Lokendra Bahadur Chand left power for the first time after 18 years had passed from Jean-François Gillet's date of birth, Jean-François Gillet would be an adult at that time.",
     "KG Triples": "1- (Jean-François Gillet, date of birth, 31 May 1979), 2- (Lokendra Bahadur Chand, position held, Prime Minister of Nepal {start time, 12 July 1983}{end time, 21 March 1986}{start time, 6 April 1990}{end time, 19 April 1990}{start time, 12 March 1997}{end time, 7 October 1997}{start time, 11 October 2002}{end time, 5 June 2003}",
